@@ -1,0 +1,1 @@
+// This is an empty code to demosntrate how Global Enviornment and 'this' is created by JSEngine
